@@ -13,7 +13,7 @@ const kalimat1 = 'Andini sangat mencintai kamu selamanya';
 const kalimat2 = 'Gunung bromo tak akan mampu menggambarkan besarnya cintaku padamu';
 
 // Mengganti kata 'mencintai' dengan 'membenci' dalam kalimat1
-console.log(changeWord('Andini', 'Joko', kalimat1));
+console.log(changeWord('Mencintai', 'Membenci', kalimat1));
 
 // Mengganti kata 'bromo' dengan 'semeru' dalam kalimat2
 console.log(changeWord('bromo', 'semeru', kalimat2));
